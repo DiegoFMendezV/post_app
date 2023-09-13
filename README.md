@@ -23,6 +23,6 @@ Puedes consultar el repositorio en: [https://github.com/DiegoFMendezV/post_app](
 - Desarrollador Junior
 - Celular: 3115913254
 - Correo: diego.mendez7716@gmail.com
-- LinkendIn: (https://www.linkedin.com/in/diego-fernando-mendez-vargas/)
+- LinkendIn: https://www.linkedin.com/in/diego-fernando-mendez-vargas/
 
 
