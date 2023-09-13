@@ -14,7 +14,7 @@ Abrimos [http://localhost:3000](http://localhost:3000) con el navegador de tu pr
 
 ## Learn More
 
-Puedes consultar el  en: [https://github.com/DiegoFMendezV/post_app](https://github.com/DiegoFMendezV/post_app)
+Puedes consultar el repositorio en: [https://github.com/DiegoFMendezV/post_app](https://github.com/DiegoFMendezV/post_app)
 
 
 ## Autor
